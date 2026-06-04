@@ -3,6 +3,9 @@
 ### I love taking ideas and turning them into clean, simple, working apps.
 ---
 # 💼 Work Experience
+## Trainee Engineer @ Veltris
++ Focusing on security operations.
++ Coming soon!
 ## Java Developer Intern @ Infosys
 + Developing and deploying Java full-stack applications using Spring Boot on the backend and React for the frontend.
 +	Implementing RESTful APIs, state management, and secure authentication flows.
