@@ -4,13 +4,15 @@
 ---
 # 💼 Work Experience
 ## Trainee Engineer @ Veltris
-+ Focusing on security operations.
-+ Coming soon!
++ Working on Security Operations (SecOps) and the SOC triad.
++ Developed custom machine learning models for anomaly detection and behavioral analytics.
++ Created routing and network simulation environments.
++ Performed security event analysis, alert investigation.
 ## Java Developer Intern @ Infosys
-+ Developing and deploying Java full-stack applications using Spring Boot on the backend and React for the frontend.
-+	Implementing RESTful APIs, state management, and secure authentication flows.
-+	Collaborating in an Agile environment to build scalable, production ready features.
-+	Working with version control, debugging tools and CI/CD workflows for efficient delivery.
++ Developed and deployed Java full-stack applications using Spring Boot on the backend and React for the frontend.
++	Implemented RESTful APIs, state management, and secure authentication flows.
++	Collaborated in an Agile environment to build scalable, production ready features.
++	Worked with version control, debugging tools and CI/CD workflows for efficient delivery.
 ## Artificial Intelligence Intern @ Swecha Telangana
 +	Collected and curated high-quality Telugu corpus for a large language model (LLM) under development.
 +	Built Telugu Proverb Collector & Explainer, a Streamlit app powered by a fine-tuned TinyLlama model to interpret Telugu proverbs and accept new proverb submissions.
@@ -18,7 +20,8 @@
 ---
 # 🐉 Featured Projects
 +	**Eatlyst** : AI-based calorie tracking app (Flutter + TFLite, Food101 dataset)
-+ **Smart e-Waste App** : fullstack Spring Boot + React system (in development)
++	**Metis** : SwiftUI + FastAPI wellness intelligence platform leveraging HealthKit, Random Forest ML, SHAP explainability, and FLAN-T5 NLP
++ **Smart e-Waste App** : fullstack Spring Boot + React system 
 + **Inventory Tracker** : CRUD + metrics dashboard, deployed on Vercel
 + **Food101 dataset MobileNetV2 Model** : trained + converted to TFLite
 + **Bleeding Eyes** : a personal poetry blog built with React
@@ -34,6 +37,7 @@
 + Git, GitHub
 + HTML5 + CSS + JS
 + VSCode, Android Studio, Eclipse
++ Linux 
 ---
 # 🥂 What I care about 
 + Clear UI/UX
